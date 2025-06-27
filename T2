@@ -14,12 +14,14 @@ Ensure-Admin
 $startTime = Get-Date
 $ErrorActionPreference = 'Stop'
 
-Write-Host " __  __    _____   _" -ForegroundColor White
-Write-Host "|  \/  |  / ____| | |" -ForegroundColor White
-Write-Host "| \  / | | |      | |" -ForegroundColor White
-Write-Host "| |\/| | | |      | |" -ForegroundColor White
-Write-Host "| |  | | | |____  | |____" -ForegroundColor White
-Write-Host "|_|  |_|  \_____| |______|" -ForegroundColor White
+Write-Host " ___        ______    ______       ___________  _______       " -ForegroundColor White
+Write-Host "|\"  |      /    \" \  /\" _  \"\     (\"     _   \)/\"     \"\      " -ForegroundColor White
+Write-Host "||  |     // ____  \(: ( \___)     )__/  \\__/(__/\    :)     " -ForegroundColor White
+Write-Host "|:  |    /  /    ) :)\/ \             \\_ /       / ___/      " -ForegroundColor White
+Write-Host " \  |___(: (____/ // //  \ _          |.  |      // \___      " -ForegroundColor White
+Write-Host "( \_|:  \\        / (:   _) \         \:  |     (:  /  \"\     " -ForegroundColor White
+Write-Host " \_______)\"_____/   \_______)         \__|      \_______)    " -ForegroundColor White
+
 
 Write-Host "  LOC PROCESS EXPLORER" -ForegroundColor Cyan
 Write-Host "  USB DEVIEW VIEWER" -ForegroundColor Cyan 

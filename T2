@@ -14,13 +14,13 @@ Ensure-Admin
 $startTime = Get-Date
 $ErrorActionPreference = 'Stop'
 
-Write-Host " ___        ______    ______       ___________  _______       " -ForegroundColor White
-Write-Host "|\"  |      /    \" \  /\" _  \"\     (\"     _   \)/\"     \"\      " -ForegroundColor White
-Write-Host "||  |     // ____  \(: ( \___)     )__/  \\__/(__/\    :)     " -ForegroundColor White
-Write-Host "|:  |    /  /    ) :)\/ \             \\_ /       / ___/      " -ForegroundColor White
-Write-Host " \  |___(: (____/ // //  \ _          |.  |      // \___      " -ForegroundColor White
-Write-Host "( \_|:  \\        / (:   _) \         \:  |     (:  /  \"\     " -ForegroundColor White
-Write-Host " \_______)\"_____/   \_______)         \__|      \_______)    " -ForegroundColor White
+Write-Host "  _     ___   ____  " -ForegroundColor White
+Write-Host " | |   / _ \ / ___| " -ForegroundColor White
+Write-Host " | |  | | | | |     " -ForegroundColor White
+Write-Host " | |__| |_| | |___  " -ForegroundColor White
+Write-Host " |_____\___/ \____| " -ForegroundColor White
+Write-Host "                    " -ForegroundColor White
+
 
 
 Write-Host "  LOC PROCESS EXPLORER" -ForegroundColor Cyan
